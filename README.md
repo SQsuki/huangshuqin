@@ -85,9 +85,9 @@
 
 ---
 #### 2.4网站备份：
-winSCP登录截图: 
+![winSCP登录截图：](https://github.com/SQsuki/huangshuqin/blob/master/images/winSCP%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.png)
 
-通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:
+![通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:](https://github.com/SQsuki/huangshuqin/blob/master/images/sql%E5%8F%8Aphp%E5%A4%87%E4%BB%BD%E6%88%AA%E5%9B%BE.png)
 
 通过wordpress后台导出工具导到本地的文件截图:
 ![wordpress后台导出](https://github.com/SQsuki/huangshuqin/blob/master/images/wordpress%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E5%AF%BC%E5%88%B0%E6%9C%AC%E5%9C%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%88%AA%E5%9B%BE.png"wordpress后台导出")
@@ -95,12 +95,15 @@ winSCP登录截图:
 ---
 ### 3.运营
 #### 3.1 站长工具：
-+ Bing站长认证：登录必应管理员平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
-   + 通过认证后Bing可搜索到本网址
-
++ 百度站长认证：登录站长认证平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
+   + 通过认证后百度可搜索到本网址
+   ![百度搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2.png)
 + Google站长认证：通过科学上网注册谷歌账号并登进站长平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
    + 通过认证后Google可搜索到本网址
-   
+   ![Google搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/Google%E6%90%9C%E7%B4%A2.png"Google搜索")
++ Bing站长认证：登录必应管理员平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
+   + 通过认证后Bing可搜索到本网址
+   ![Bing搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/Google%E6%90%9C%E7%B4%A2.png"Bing搜索")
 ---
 #### 3.2 SEO优化：
 + 优化1：更改、增加文章关键词
