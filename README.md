@@ -49,6 +49,7 @@
 + 风格：本网站主题是网站可行性及用户研究，通过用户调研以及访谈，发现其对于该主题的网站风格，更偏向于简洁商务风。
 + 配色：本网站的主题色选取较为大众的黑色，辅助色为白色，橙色用作点缀，黑色是沉稳的，白色是包容的，橙色是亮丽的，本网站运用黑白色搭配特显出了其商务风格，用上一点俏皮的橙色做点缀，画面变得灵动起来，增强其美观性及可阅读性。
 + 图片风格：紧扣网站的风格以及配色进行选图，选取的图片大多与电脑相关，突出网站主题。部分配图采用文章所提及的网站logo及操作截图，但特色图片的风格尽量保持一致。
+[配图风格示例](https://github.com/SQsuki/huangshuqin/blob/master/images/%E9%85%8D%E5%9B%BE%E9%A3%8E%E6%A0%BC%E7%A4%BA%E4%BE%8B.png "配图风格示例")
 
 ---
 #### 1.4 云端架站踩坑图文文章：
@@ -71,16 +72,25 @@
 ---
 #### 2.2网站安全：使用Wordfence
 通过数据可知本网站安全系数较低，有被恶意攻击本网站的风险。
+(https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence01.png"Wordfence01")
+(https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence02.png"Wordfence02")
+(https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence03.png"Wordfence03")
 
 ---
 #### 2.3网站性能：
 + 使用site24x7进行监控，八个监控点是我国的主要城市
+(https://github.com/SQsuki/huangshuqin/blob/master/images/site24x701.png"site24x701")
+(https://github.com/SQsuki/huangshuqin/blob/master/images/site24x702.png"site24x702")
+(https://github.com/SQsuki/huangshuqin/blob/master/images/site24x703.png"site24x703")
 
 ---
 #### 2.4网站备份：
-winSCP的截图: 
-通过插件(Wordpress Database Backup) 备份数据库 （sql文件）截图:
+winSCP登录截图: 
+
+通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:
+
 通过wordpress后台导出工具导到本地的文件截图:
+(https://github.com/SQsuki/huangshuqin/blob/master/images/wordpress%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E5%AF%BC%E5%88%B0%E6%9C%AC%E5%9C%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%88%AA%E5%9B%BE.png"wordpress后台导出")
 
 ---
 ### 3.运营
