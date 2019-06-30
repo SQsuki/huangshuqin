@@ -72,7 +72,7 @@
    
 + Siteorigin
    + 页面布局采用SiteOrigin Post Carousel，轮播效果，页面灵活，搜索方便，如[架站手册页面](https://huangshuqin.me/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C/)
-    ![轮播效果]https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%9B%BE%E7%89%87%E6%95%88%E6%9E%9C.png
+    ![轮播效果](https://github.com/SQsuki/huangshuqin/blob/master/images/%E8%BD%AE%E6%92%AD%E6%95%88%E6%9E%9C.png)
    
    + 在页面布局中设置交互，鼠标移动至图片会弹出对应文章标题，点击即可跳转，如[网站可用性页面](https://huangshuqin.me/%E7%BD%91%E7%AB%99%E5%8F%AF%E7%94%A8%E6%80%A7/)
     ![图片交互效果](https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%9B%BE%E7%89%87%E4%BA%A4%E4%BA%92%E6%95%88%E6%9E%9C.png)
