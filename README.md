@@ -85,11 +85,13 @@
 
 ---
 #### 2.4网站备份：
++ winSCP登录截图：
 ![winSCP登录截图：](https://github.com/SQsuki/huangshuqin/blob/master/images/winSCP%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.png)
 
++ 通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:
 ![通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:](https://github.com/SQsuki/huangshuqin/blob/master/images/sql%E5%8F%8Aphp%E5%A4%87%E4%BB%BD%E6%88%AA%E5%9B%BE.png)
 
-通过wordpress后台导出工具导到本地的文件截图:
++ 通过wordpress后台导出工具导到本地的文件截图:
 ![wordpress后台导出](https://github.com/SQsuki/huangshuqin/blob/master/images/wordpress%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E5%AF%BC%E5%88%B0%E6%9C%AC%E5%9C%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%88%AA%E5%9B%BE.png"wordpress后台导出")
 
 ---
