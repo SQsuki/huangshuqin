@@ -125,8 +125,16 @@
 #### 3.2 SEO优化：
 + 优化1：更改、增加文章关键词
 结果：最初索引量并无明显变化，后期可在百度及bing上通过关键词搜索到本网址，且网址顺序较靠前
-+ 优化2：
-+ 优化3：
+![]()
+
++ 优化2：提交站点地图至bing、google站长管理平台，但效果不佳
+![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo1.png)
+![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo2.png)
+![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo4.png)
+
++ 优化3：通过SEO分析程序，获得SEO建议并改进
+![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo3.png)
+![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo5.png)
 
 ---
 #### 3.3 用户研究：
