@@ -72,41 +72,41 @@
 ---
 #### 2.2网站安全：使用Wordfence
 通过数据可知本网站安全系数较低，有被恶意攻击本网站的风险。
-![Wordfence01](https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence01.png"Wordfence01")
-![Wordfence02](https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence02.png"Wordfence02")
-![Wordfence03](https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence03.png"Wordfence03")
+![Wordfence01](https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence01.png "Wordfence01")
+![Wordfence02](https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence02.png "Wordfence02")
+![Wordfence03](https://github.com/SQsuki/huangshuqin/blob/master/images/Wordfence03.png "Wordfence03")
 
 ---
 #### 2.3网站性能：
 + 使用site24x7进行监控，八个监控点是我国的主要城市
-![site24x701](https://github.com/SQsuki/huangshuqin/blob/master/images/site24x701.png"site24x701")
-![site24x702](https://github.com/SQsuki/huangshuqin/blob/master/images/site24x702.png"site24x702")
-![site24x703](https://github.com/SQsuki/huangshuqin/blob/master/images/site24x703.png"site24x703")
+![site24x701](https://github.com/SQsuki/huangshuqin/blob/master/images/site24x701.png "site24x701")
+![site24x702](https://github.com/SQsuki/huangshuqin/blob/master/images/site24x702.png "site24x702")
+![site24x703](https://github.com/SQsuki/huangshuqin/blob/master/images/site24x703.png "site24x703")
 
 ---
 #### 2.4网站备份：
 + winSCP登录截图：
-![winSCP登录截图：](https://github.com/SQsuki/huangshuqin/blob/master/images/winSCP%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.png)
+![winSCP登录截图：](https://github.com/SQsuki/huangshuqin/blob/master/images/winSCP%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.png "[winSCP登录截图")
 
 + 通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:
-![通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:](https://github.com/SQsuki/huangshuqin/blob/master/images/sql%E5%8F%8Aphp%E5%A4%87%E4%BB%BD%E6%88%AA%E5%9B%BE.png)
+![通过插件(Wordpress Database Backup) 备份数据库 （sql文件）及winSCP备份截图:](https://github.com/SQsuki/huangshuqin/blob/master/images/sql%E5%8F%8Aphp%E5%A4%87%E4%BB%BD%E6%88%AA%E5%9B%BE.png "sql文件及php备份")
 
 + 通过wordpress后台导出工具导到本地的文件截图:
-![wordpress后台导出](https://github.com/SQsuki/huangshuqin/blob/master/images/wordpress%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E5%AF%BC%E5%88%B0%E6%9C%AC%E5%9C%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%88%AA%E5%9B%BE.png"wordpress后台导出")
+![wordpress后台导出](https://github.com/SQsuki/huangshuqin/blob/master/images/wordpress%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E5%AF%BC%E5%88%B0%E6%9C%AC%E5%9C%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%88%AA%E5%9B%BE.png "wordpress后台导出")
 
 ---
 ### 3.运营
 #### 3.1 站长工具：
 + 百度站长认证：登录站长认证平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
    + 通过认证后百度可搜索到本网址
-   ![百度搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2.png)
+   ![百度搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2.png "百度搜索")
 + Google站长认证：通过科学上网注册谷歌账号并登进站长平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
    + 通过认证后Google可搜索到本网址
-   ![Google搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/Google%E6%90%9C%E7%B4%A2.png"Google搜索")
+   ![Google搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/Google%E6%90%9C%E7%B4%A2.png "Google搜索")
 + Bing站长认证：登录必应管理员平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
    + 通过认证后Bing的国际版及国内版都可搜索到本网址
-   ![Bing搜索国内版](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E6%90%9C%E7%B4%A2%E5%9B%BD%E5%86%85%E7%89%88.png"Bing搜索国内版")
-   ![Bing搜索国际版](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E6%90%9C%E7%B4%A2%E5%9B%BD%E9%99%85%E7%89%88.png"Bing搜索国际版")
+   ![Bing搜索国内版](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E6%90%9C%E7%B4%A2%E5%9B%BD%E5%86%85%E7%89%88.png "Bing搜索国内版")
+   ![Bing搜索国际版](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E6%90%9C%E7%B4%A2%E5%9B%BD%E9%99%85%E7%89%88.png "Bing搜索国际版")
     
 ---
 #### 3.2 SEO优化：
@@ -133,14 +133,14 @@
    + 所有的文章添加封面图片
    
 + 修改前后的主题及页面分类栏：
-![修改前的主题及页面分类栏](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png"修改前的主题及页面分类栏")
-![修改后的主题及页面分类栏](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png"修改后的主题及页面分类栏")
+![修改前的主题及页面分类栏](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png "修改前的主题及页面分类栏")
+![修改后的主题及页面分类栏](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png "修改后的主题及页面分类栏")
 
 + 修改后文章小标题的使用及排版：
-![修改后文章小标题的使用及排版](https://github.com/SQsuki/huangshuqin/blob/master/images/%E6%96%87%E7%AB%A0%E5%B0%8F%E6%A0%87%E9%A2%98%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E6%8E%92%E7%89%88.png"修改后文章小标题的使用及排版")
+![修改后文章小标题的使用及排版](https://github.com/SQsuki/huangshuqin/blob/master/images/%E6%96%87%E7%AB%A0%E5%B0%8F%E6%A0%87%E9%A2%98%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E6%8E%92%E7%89%88.png "修改后文章小标题的使用及排版")
 
 + 添加封面图片：
-![封面图片](https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87.png"封面图片")
+![封面图片](https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87.png "封面图片")
 
 ---
 ##### 方法二：AB测试
@@ -150,9 +150,9 @@
 + B用户：首页配图简洁大方，也凸显出了主题
 
 修改前后的主题变化：
-![修改前的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png"修改前的主题")
+![修改前的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png "修改前的主题")
 
-![修改后的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png"修改后的主题")
+![修改后的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png "修改后的主题")
 测试总结：通过对比发现B方案更符合本网站的风格，决定采用B方案
 
 ---
