@@ -137,10 +137,10 @@
 ![修改后的主题及页面分类栏](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png"修改后的主题及页面分类栏")
 
 + 修改后文章小标题的使用及排版：
-![修改后文章小标题的使用及排版](https://"修改后文章小标题的使用及排版")
+![修改后文章小标题的使用及排版]https://github.com/SQsuki/huangshuqin/blob/master/images/%E6%96%87%E7%AB%A0%E5%B0%8F%E6%A0%87%E9%A2%98%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E6%8E%92%E7%89%88.png"修改后文章小标题的使用及排版")
 
 + 添加封面图片：
-![封面图片](https://"封面图片")
+![封面图片](https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87.png"封面图片")
 
 ---
 ##### 方法二：AB测试
@@ -151,6 +151,7 @@
 
 修改前后的主题变化：
 ![修改前的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png"修改前的主题")
+
 ![修改后的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png"修改后的主题")
 测试总结：通过对比发现B方案更符合本网站的风格，决定采用B方案
 
