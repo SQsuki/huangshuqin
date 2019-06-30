@@ -184,6 +184,6 @@
 #### 3.4定制化
 + 方案一：结合A/B测试结果修改网站风格，使用商务风格，更贴切用户所需。
 + 方案二：为保护原创文章作者及提供者的知识产权，本网站安装了WP Content Copy Protection & No Right Click插件，防止复制
-
+   + ![防复制插件](https://github.com/SQsuki/huangshuqin/blob/master/images/%E9%98%B2%E5%A4%8D%E5%88%B6.png)
 ---
 ### 4.加分项：使用HTTPS：https://huangshuqin.me
