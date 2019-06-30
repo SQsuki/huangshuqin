@@ -104,8 +104,10 @@
    + 通过认证后Google可搜索到本网址
    ![Google搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/Google%E6%90%9C%E7%B4%A2.png"Google搜索")
 + Bing站长认证：登录必应管理员平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
-   + 通过认证后Bing可搜索到本网址
-   ![Bing搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/Google%E6%90%9C%E7%B4%A2.png"Bing搜索")
+   + 通过认证后Bing的国际版及国内版都可搜索到本网址
+   ![Bing搜索国内版](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E6%90%9C%E7%B4%A2%E5%9B%BD%E5%86%85%E7%89%88.png"Bing搜索国内版")
+   ![Bing搜索国际版](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E6%90%9C%E7%B4%A2%E5%9B%BD%E9%99%85%E7%89%88.png"Bing搜索国际版")
+    
 ---
 #### 3.2 SEO优化：
 + 优化1：更改、增加文章关键词
@@ -126,9 +128,19 @@
    + 大部分用户认为首页需要增加其他不同类型的图片，丰富首页内容，适当地调小标题字号。同时认为文章排版时，可突出小标题。且为文章配图较小，应适当放大。部分用户则建议修改侧边栏的设置，增加页面分类。
    
 + 改进措施：
-   + 更改网站主题模板，增加页面分类及配图数量。
-   + 排版时注意小标题的使用与突出，适当地调解配图大小
-   + 所有的文章添加特色图片，及封面图片。
+   + 更改网站主题模板，增加页面分类栏及配图数量
+   + 排版时注意小标题的使用与突出，适当地调整配图大小
+   + 所有的文章添加封面图片
+   
++ 修改前后的主题及页面分类栏：
+![修改前的主题及页面分类栏](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png"修改前的主题及页面分类栏")
+![修改后的主题及页面分类栏](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png"修改后的主题及页面分类栏")
+
++ 修改后文章小标题的使用及排版：
+![修改后文章小标题的使用及排版](https://"修改后文章小标题的使用及排版")
+
++ 添加封面图片：
+![封面图片](https://"封面图片")
 
 ---
 ##### 方法二：AB测试
@@ -136,6 +148,10 @@
 + B首页配图为商务工作图
 + A用户：首页配图太过花俏，没有显示出网站的主题，与主题不太搭配
 + B用户：首页配图简洁大方，也凸显出了主题
+
+修改前后的主题变化：
+![修改前的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png"修改前的主题")
+![修改后的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%90%8E%E9%A6%96%E9%A1%B5.png"修改后的主题")
 测试总结：通过对比发现B方案更符合本网站的风格，决定采用B方案
 
 ---
