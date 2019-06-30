@@ -64,8 +64,14 @@
 + 背景及字体的对比度：背景采用纯白，文章标题字体大小为20号，加粗，黑色；主内容字体大小为16号，偏灰色。标题及正文统一采用微软雅黑字体，引语部分用斜体。读者能够一眼明晰文章的内容框架，对比度较强。
 + 可读性：本网站所有文章均有标题、副标题、配图、内链等，段落数及文字数量均在合理范围内，可读性较强。
 + Animate it! 
+   + 文章“引言”采用从左到右滑动进入的动画效果，如文章[架站手册之DIGITALOCEAN篇](https://huangshuqin.me/2019/06/28/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C%E4%B9%8Bdigital-ocean%E7%AF%87/)，动静结合，使用户阅读时不易产生疲劳感
+   + 文章“配图”采用淡入的动画效果，如文章[BING网站管理员指南](https://huangshuqin.me/2019/06/13/bing%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E5%91%98%E6%8C%87%E5%8D%97/)，加强了文章阅读的趣味性
+   
 + Siteorigin
-
+   + 页面布局采用SiteOrigin Post Carousel，轮播效果，页面灵活，搜索方便，如[架站手册页面](https://huangshuqin.me/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C/)
+   + 在页面布局中设置交互，鼠标移动至图片会弹出对应文章标题，点击即可跳转，如[网站可用性页面](https://huangshuqin.me/%E7%BD%91%E7%AB%99%E5%8F%AF%E7%94%A8%E6%80%A7/)
+   + 文章底部设置按钮，点击可跳转至相关页面，方便用户浏览，如文章[架站手册之GITHUB EDUCATION PACK篇](https://huangshuqin.me/2019/06/27/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C%E4%B9%8Bgithub-education-pack%E7%AF%87/)
+   
 ---
 #### 2.1云端架站：https://huangshuqin.me
 
