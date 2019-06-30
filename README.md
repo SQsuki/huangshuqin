@@ -5,6 +5,7 @@
 网站域名|https://huangshuqin.me/
 站长|黄淑勤
 
++ 文档图片较多，加载速度有点慢，请耐心等候，谢谢
 ---
 ### 1.策划
 #### 1.1策划文档与网站地图：
@@ -112,9 +113,13 @@
 + 百度站长认证：登录站长认证平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
    + 通过认证后百度可搜索到本网址
    ![百度搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2.png "百度搜索")
+   ![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo1.png)
+
 + Google站长认证：通过科学上网注册谷歌账号并登进站长平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
    + 通过认证后Google可搜索到本网址
    ![Google搜索](https://github.com/SQsuki/huangshuqin/blob/master/images/Google%E6%90%9C%E7%B4%A2.png "Google搜索")
+   ![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo2.png)
+   
 + Bing站长认证：登录必应管理员平台，选择通过html的验证方法，将其验证码贴入WordPress后台的Yoast SEO，完成验证后提交sitemap
    + 通过认证后Bing的国际版及国内版都可搜索到本网址
    ![Bing搜索国内版](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E6%90%9C%E7%B4%A2%E5%9B%BD%E5%86%85%E7%89%88.png "Bing搜索国内版")
