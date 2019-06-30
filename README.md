@@ -65,13 +65,20 @@
 + 可读性：本网站所有文章均有标题、副标题、配图、内链等，段落数及文字数量均在合理范围内，可读性较强。
 + Animate it! 
    + 文章“引言”采用从左到右滑动进入的动画效果，如文章[架站手册之DIGITALOCEAN篇](https://huangshuqin.me/2019/06/28/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C%E4%B9%8Bdigital-ocean%E7%AF%87/)，动静结合，使用户阅读时不易产生疲劳感
+   ![引言效果](https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%BC%95%E8%A8%80%E6%95%88%E6%9E%9C.png)
+   
    + 文章“配图”采用淡入的动画效果，如文章[BING网站管理员指南](https://huangshuqin.me/2019/06/13/bing%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E5%91%98%E6%8C%87%E5%8D%97/)，加强了文章阅读的趣味性
+   ![配图效果](https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%9B%BE%E7%89%87%E6%95%88%E6%9E%9C.png)
    
 + Siteorigin
    + 页面布局采用SiteOrigin Post Carousel，轮播效果，页面灵活，搜索方便，如[架站手册页面](https://huangshuqin.me/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C/)
-   + 在页面布局中设置交互，鼠标移动至图片会弹出对应文章标题，点击即可跳转，如[网站可用性页面](https://huangshuqin.me/%E7%BD%91%E7%AB%99%E5%8F%AF%E7%94%A8%E6%80%A7/)
-   + 文章底部设置按钮，点击可跳转至相关页面，方便用户浏览，如文章[架站手册之GITHUB EDUCATION PACK篇](https://huangshuqin.me/2019/06/27/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C%E4%B9%8Bgithub-education-pack%E7%AF%87/)
+    ![轮播效果]https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%9B%BE%E7%89%87%E6%95%88%E6%9E%9C.png
    
+   + 在页面布局中设置交互，鼠标移动至图片会弹出对应文章标题，点击即可跳转，如[网站可用性页面](https://huangshuqin.me/%E7%BD%91%E7%AB%99%E5%8F%AF%E7%94%A8%E6%80%A7/)
+    ![图片交互效果](https://github.com/SQsuki/huangshuqin/blob/master/images/%E5%9B%BE%E7%89%87%E4%BA%A4%E4%BA%92%E6%95%88%E6%9E%9C.png)
+   
+   + 文章底部设置按钮，点击可跳转至相关页面，方便用户浏览，如文章[架站手册之GITHUB EDUCATION PACK篇](https://huangshuqin.me/2019/06/27/%E6%9E%B6%E7%AB%99%E6%89%8B%E5%86%8C%E4%B9%8Bgithub-education-pack%E7%AF%87/)
+   ![底部按钮](https://github.com/SQsuki/huangshuqin/blob/master/images/%E6%96%87%E7%AB%A0%E5%BA%95%E9%83%A8%E6%8C%89%E9%92%AE.png)
 ---
 #### 2.1云端架站：https://huangshuqin.me
 
@@ -117,7 +124,7 @@
 ---
 #### 3.2 SEO优化：
 + 优化1：更改、增加文章关键词
-结果：最初索引量并无明显变化，后期可在百度及bing上通过关键词搜索到本网址
+结果：最初索引量并无明显变化，后期可在百度及bing上通过关键词搜索到本网址，且网址顺序较靠前
 + 优化2：
 + 优化3：
 
@@ -132,6 +139,7 @@
    
 + 访谈总结：
    + 大部分用户认为首页需要增加其他不同类型的图片，丰富首页内容，适当地调小标题字号。同时认为文章排版时，可突出小标题。且为文章配图较小，应适当放大。部分用户则建议修改侧边栏的设置，增加页面分类。
+   + [录音文件](https://github.com/SQsuki/huangshuqin/tree/master/%E5%BD%95%E9%9F%B3)
    
 + 改进措施：
    + 更改网站主题模板，增加页面分类栏及配图数量
@@ -154,6 +162,7 @@
 + B首页配图为商务工作图
 + A用户：首页配图太过花俏，没有显示出网站的主题，与主题不太搭配
 + B用户：首页配图简洁大方，也凸显出了主题
++ [录音文件](https://github.com/SQsuki/huangshuqin/tree/master/%E5%BD%95%E9%9F%B3)
 
 修改前后的主题变化：
 ![修改前的主题](https://github.com/SQsuki/huangshuqin/blob/master/images/%E4%BF%AE%E6%94%B9%E5%89%8D%E9%A6%96%E9%A1%B5.png "修改前的主题")
