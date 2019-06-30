@@ -42,8 +42,7 @@
 ---
 #### 1.2图库版权
 本网站图片的主要来源：[Unsplash](https://unsplash.com/)
-+ 详情请看图片版权文章
-
++ 非原创图片已在文章底部标明来源及超链接
 ---
 #### 1.3 图库风格及配色
 + 风格：本网站主题是网站可行性及用户研究，通过用户调研以及访谈，发现其对于该主题的网站风格，更偏向于简洁商务风。
@@ -124,16 +123,18 @@
 ---
 #### 3.2 SEO优化：
 + 优化1：更改、增加文章关键词
-结果：最初索引量并无明显变化，后期可在百度及bing上通过关键词搜索到本网址，且网址顺序较靠前
+   + 结果：最初索引量并无明显变化，后期可在百度及bing上通过关键词搜索到本网址，且网址顺序较靠前
 ![bing关键词](https://github.com/SQsuki/huangshuqin/blob/master/images/bing%E5%85%B3%E9%94%AE%E8%AF%8D.png)
 ![百度关键词](https://github.com/SQsuki/huangshuqin/blob/master/images/%E7%99%BE%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D.png)
 
 + 优化2：提交站点地图至bing、google站长管理平台，但效果不佳
+   + 原因：可能是时间太短，提交的网站地图数量太少
 ![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo1.png)
 ![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo2.png)
 ![提交站点地图](https://github.com/SQsuki/huangshuqin/blob/master/images/seo4.png)
 
-+ 优化3：通过SEO分析程序，获得SEO建议并改进
++ 优化3：通过SEO分析程序，获得SEO建议并改进，但效果一般
+   + 原因：可能是时间太短，没看出效果
 ![SEO分析程序](https://github.com/SQsuki/huangshuqin/blob/master/images/seo3.png)
 ![SEO分析程序](https://github.com/SQsuki/huangshuqin/blob/master/images/seo5.png)
 
@@ -181,6 +182,8 @@
 
 ---
 #### 3.4定制化
++ 方案一：结合A/B测试结果修改网站风格，使用商务风格，更贴切用户所需。
++ 方案二：为保护原创文章作者及提供者的知识产权，本网站安装了WP-copyright-protection插件，防止复制
 
 ---
 ### 4.加分项：使用HTTPS：https://huangshuqin.me
